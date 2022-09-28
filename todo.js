@@ -103,8 +103,8 @@ function createTodo(arr){
         newList.appendChild(newItem);
         newList.classList.add("list-unstyled");
         newList.style.marginTop = "55px";
-        newList.style.paddingLeft = "206px";
-        newList.style.paddingRight = "211px";
+        newList.style.paddingLeft = "236px";
+        newList.style.paddingRight = "234px";
         elContainer.appendChild(newList);
         
         
